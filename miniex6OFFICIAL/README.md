@@ -1,6 +1,7 @@
 https://rawgit.com/a9neh/Anines-mini_ex/gh-pages/miniex6OFFICIAL/index.html
 ## Title
 Special Snowflake
+
 Every time you press a key, a new and slightly different snowflake is made
 ![ScreenShot](https://raw.githubusercontent.com/a9neh/Anines-mini_ex/gh-pages/miniex6OFFICIAL/snowshot.JPG)
 
