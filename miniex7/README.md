@@ -1,6 +1,6 @@
 ## Mini ex 7
 
-#### Run it: https://rawgit.com/a9neh/Anines-mini_ex/gh-pages/miniex7/sketch.js
+#### Run it: https://rawgit.com/a9neh/Anines-mini_ex/gh-pages/miniex7/index.html
 ### Give a title to your piece and describe your program with a screenshot.
 The title of my piece is "House of Secrets". 
 ![ScreenShot](https://rawgit.com/a9neh/Anines-mini_ex/gh-pages/miniex7/screenshothouse.JPG)
