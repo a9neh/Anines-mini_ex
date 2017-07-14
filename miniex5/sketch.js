@@ -6,12 +6,12 @@ var ran, ran1, ran2, ran3, ran4, ran5, ran6, ran7, ran8, ran9, ran11, ran12, ran
 
 function preload(){
   minText = loadStrings('assets/catsinheat.txt');
-  mis = loadImage('/assets/chilimis.jpg');
+  mis = loadImage('assets/chilimis.JPG');
 }
 
 function setup() {
   createCanvas (400, 350);
-  textAlign(CENTER);
+  textAlign(RIGHT);
   grammar = RiTa.untokenize(minText);
   tok = split(grammar," ");
   
@@ -22,10 +22,11 @@ function draw() {
   
 }
 
-function mouseReleased() {
+function mouseClicked() {
   background(220,20,60);
   image(mis, 140, 220, 120, 95);
   
+ 
   ran=tok[floor(random(tok.length))];
   ran1=tok[floor(random(tok.length))];
   ran2=tok[floor(random(tok.length))];
